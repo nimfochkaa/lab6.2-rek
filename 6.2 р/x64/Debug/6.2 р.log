@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  6.2 р.cpp
+     Creating library D:\vs project\6.2 рек\x64\Debug\6.2 р.lib and object D:\vs project\6.2 рек\x64\Debug\6.2 р.exp
+LINK : warning LNK4232: name 6.2 р.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  6.2 р.vcxproj -> D:\vs project\6.2 рек\x64\Debug\6.2 р.dll

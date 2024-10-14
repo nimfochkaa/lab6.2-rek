@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\6.2 \u0440\u0435\u043A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370B40C5-5034-4545-9DAE-E8AA9722789C}|6.2 \u0440\\6.2 \u0440.vcxproj|D:\\vs project\\6.2 \u0440\u0435\u043A\\6.2 \u0440\\6.2 \u0440.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{370B40C5-5034-4545-9DAE-E8AA9722789C}|6.2 \u0440\\6.2 \u0440.vcxproj|solutionrelative:6.2 \u0440\\6.2 \u0440.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699A8FB2-3B48-4C72-A54A-5FFE0F1A708A}|6.2 \u0440\u0435\u043A\\6.2 \u0440\u0435\u043A.vcxproj|D:\\vs project\\6.2 \u0440\u0435\u043A\\6.2 \u0440\u0435\u043A\\6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{699A8FB2-3B48-4C72-A54A-5FFE0F1A708A}|6.2 \u0440\u0435\u043A\\6.2 \u0440\u0435\u043A.vcxproj|solutionrelative:6.2 \u0440\u0435\u043A\\6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.2 \u0440.cpp",
+              "DocumentMoniker": "D:\\vs project\\6.2 \u0440\u0435\u043A\\6.2 \u0440\\6.2 \u0440.cpp",
+              "RelativeDocumentMoniker": "6.2 \u0440\\6.2 \u0440.cpp",
+              "ToolTip": "D:\\vs project\\6.2 \u0440\u0435\u043A\\6.2 \u0440\\6.2 \u0440.cpp",
+              "RelativeToolTip": "6.2 \u0440\\6.2 \u0440.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T12:05:42.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.2.cpp",
+              "DocumentMoniker": "D:\\vs project\\6.2 \u0440\u0435\u043A\\6.2 \u0440\u0435\u043A\\6.2.cpp",
+              "RelativeDocumentMoniker": "6.2 \u0440\u0435\u043A\\6.2.cpp",
+              "ToolTip": "D:\\vs project\\6.2 \u0440\u0435\u043A\\6.2 \u0440\u0435\u043A\\6.2.cpp",
+              "RelativeToolTip": "6.2 \u0440\u0435\u043A\\6.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T13:28:34.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
